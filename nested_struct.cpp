@@ -37,5 +37,8 @@ int main()
     {
         cout << "mahasiswa ke-" << i + 1 << endl;
         cout << "nim = " << mhs[i].nim << endl;
+        cout << "nama = " << mhs[i].nama << endl;
+        cout << "kota = " << mhs[i].alamat.kota << endl;
+        cout << "provinsi = " << mhs[i].alamat.provinsi << endl;
     }
 }
