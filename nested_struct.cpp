@@ -18,4 +18,9 @@ int main()
 {
     mahasiswa mhs[2];
     for (int i = 0; i< 2; i++)
+    {
+        cout << "mahasiswa ke-" << endl;
+        cout << "masukan nim = ";
+        cin >> mhs[i].nim;
+    }
 }
