@@ -26,5 +26,7 @@ int main()
         cin >> mhs[i].nama;
         cout << "masukan kota =";
         cin >> mhs[i].alamat.kota;
+        cout << "masukan provinsi =";
+        cin >> mhs[1].alamat.provinsi;
     }
 }
