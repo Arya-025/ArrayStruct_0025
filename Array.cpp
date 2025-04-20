@@ -27,4 +27,6 @@ int main()
     cout << endl;
     cout << "menampilkan array nama" << endl;
     cout << endl;
+
+    for (int i = 0; i < 4; i++)
 }
