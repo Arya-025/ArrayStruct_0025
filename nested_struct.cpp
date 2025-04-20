@@ -13,3 +13,5 @@ struct mahasiswa
     string nim;
     DetailAlamat alamat;
 };
+
+int main()
