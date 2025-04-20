@@ -22,5 +22,7 @@ int main()
         cout << "mahasiswa ke-" << endl;
         cout << "masukan nim = ";
         cin >> mhs[i].nim;
+        cout << "masukan nama = ";
+        cin >> mhs[i].nama;
     }
 }
