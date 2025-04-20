@@ -24,5 +24,7 @@ int main()
         cin >> mhs[i].nim;
         cout << "masukan nama = ";
         cin >> mhs[i].nama;
+        cout << "masukan kota =";
+        cin >> mhs[i].alamat.kota;
     }
 }
