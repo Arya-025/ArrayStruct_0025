@@ -35,6 +35,7 @@ int main()
     cout << endl;
     for (int i = 0; i < 2; i++)
     {
-        
+        cout << "mahasiswa ke-" << i + 1 << endl;
+        cout << "nim = " << mhs[i].nim << endl;
     }
 }
