@@ -14,4 +14,5 @@ int main()
 {
 
     cout <<"nilai array ke 3 = " << nilai[2] << endl;
+    nilai[2] = 100;
 }
