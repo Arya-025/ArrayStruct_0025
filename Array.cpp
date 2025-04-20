@@ -13,6 +13,7 @@ string nama[4];
 int main()
 {
 
-    cout <<"nilai array ke 3 = " << nilai[2] << endl;
+    cout << "nilai array ke 3 = " << nilai[2] << endl;
     nilai[2] = 100;
+    cout << "nilai array ke 3 = " << nilai[2] << endl;
 }
