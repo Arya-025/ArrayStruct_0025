@@ -33,4 +33,8 @@ int main()
     cout << endl;
     cout << "menampilkan data" << endl;
     cout << endl;
+    for (int i = 0; i < 2; i++)
+    {
+        
+    }
 }
